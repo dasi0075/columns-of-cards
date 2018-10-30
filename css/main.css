@@ -47,3 +47,19 @@ p {
 nav {
   display: flex;
 }
+
+.quest {
+  background-color: #e2e2e2;
+}
+
+.dino-knights {
+  background-color: #ccc;
+}
+
+.black-dragon {
+  background-color: #aaa;
+}
+
+.laser-ships {
+  background-color: #999;
+}
