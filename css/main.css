@@ -7,3 +7,8 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
+
+header {
+  font-size: 2rem;
+  font-weight: bold;
+}
