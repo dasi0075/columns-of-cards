@@ -92,6 +92,9 @@ section {
   border-radius: .6em;
 }
 
+.btn-small {
+  padding-right: 12rem;
+}
 .btn:hover {
   background-color: black;
 }
