@@ -23,7 +23,7 @@ h1 {
 }
 
 img {
-  width: 25%;
+  width: 40%;
   margin-bottom: 1rem;
   display: flex;
   margin-left: 8rem;
@@ -42,7 +42,7 @@ h2 {
 }
 
 p {
-  font-size: .875rem;
+  font-size: 1rem;
   margin: 0;
   margin-bottom: 1.5rem;
 }
