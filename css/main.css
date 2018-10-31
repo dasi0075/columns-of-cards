@@ -25,11 +25,8 @@ h1 {
 
 img {
   width: 100px;
-  margin-bottom: 1rem;
-  margin-left: 7rem;
-  margin-top: .2rem;
-  display: flex;
-  align-items: center;
+  margin: 0 auto 1rem;
+  display: block;
 }
 
 h2 {
