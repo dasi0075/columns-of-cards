@@ -25,7 +25,7 @@ h1 {
 img {
   width: 40%;
   margin-bottom: 1rem;
-  display: inline-block;
+  display: inline-flex;
   margin-left: 7rem;
 }
 
