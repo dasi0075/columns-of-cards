@@ -25,8 +25,8 @@ h1 {
 img {
   width: 100px;
   margin-bottom: 1rem;
-  display: inline;
   margin-left: 7rem;
+  margin-top: .2rem;
 }
 
 h2 {
@@ -93,9 +93,11 @@ section {
   border-radius: .6em;
 }
 
-.btn-small {
+.btn .btn-small {
   padding-right: 12rem;
+  margin-top: 2rem;
 }
+
 .btn:hover {
   background-color: black;
 }
