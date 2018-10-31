@@ -26,9 +26,9 @@ h1 {
 img {
   width: 100px;
   margin-bottom: 1rem;
-  margin-left: 7rem;
   margin-top: .2rem;
-  display: inline-grid;
+  display: inline-block;
+  align-items: center;
 }
 
 h2 {
