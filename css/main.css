@@ -27,6 +27,7 @@ img {
   margin-bottom: 1rem;
   margin-left: 7rem;
   margin-top: .2rem;
+  display: inline-grid;
 }
 
 h2 {
@@ -93,9 +94,8 @@ section {
   border-radius: .6em;
 }
 
-.btn .btn-small {
-  padding-right: 12rem;
-  margin-top: 2rem;
+.btn-small {
+  margin-bottom: 3.1rem;
 }
 
 .btn:hover {
